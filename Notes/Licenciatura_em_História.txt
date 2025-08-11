@@ -1,0 +1,8 @@
+Content-Type: text/x-zim-wiki
+Wiki-Format: zim 0.6
+Creation-Date: 2025-08-09T17:47:28-03:00
+
+====== Licenciatura em História ======
+Created sábado 09 agosto 2025
+
+Essa é a caixa principal. Tudo vai estar dentro disso.
