@@ -1,0 +1,7 @@
+Content-Type: text/x-zim-wiki
+Wiki-Format: zim 0.6
+Creation-Date: 2025-08-11T17:49:20-03:00
+
+====== teste ======
+Created segunda 11 agosto 2025
+
