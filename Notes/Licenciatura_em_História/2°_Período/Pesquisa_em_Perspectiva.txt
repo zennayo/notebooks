@@ -10,7 +10,9 @@ Ivete Morosov
 
 * **Calendário da disciplina:**
 
-[ ] 
+[ ] 22/09: TDE 1 - assistir alguma palestra do Educere e criar um banner sobre a palestra com base no template disponibilizado
+[ ] 25/09: Prova
+[ ] 14/10: TDE 2 - Leitura de um artigo da área de estudos - apresentar tema, problema e provável produto decorrente do projeto
 
 --------------------
 
@@ -44,10 +46,36 @@ pesquisa básica e pesquisa aplicada
 básica: sem o compromisso de aplicação, ciência pura
 pesquisa aplicada: interesse prático
 
-~~tcc do yugioh~~
+~~tcc do yugioh KKKKKKKK~~
+
+--------------------
+
+* **15/08**
+
+Quais informações são essenciais em um abstract?
+
+1. Contexto
+O texto consegue indicar qual é o contexto geral? Do que se trata o estudo/artigo...
+
+2. Objetivo/intenção
+Dado o contexto, qual foi a intenção do trabalho? Qual é o objetivo?
+
+3. Método
+Uma vez clara a intenção do estudo, COMO foi realizado? Quais métodos e estratégias?
+
+4. Resultados
+As estratégias ou métodos adotados trouxeram que resultados? (Quali, quantitativos...)
+
+5. Fundamentação teórica
+Quais foram os autores em que a pesquisa se baseou?
+
+6. Conclusão
+Com base nos resultados obtidos, que conclusões ou reflexões podem ser feitas?
+
 
 
 
 
 --------------------
+
 
