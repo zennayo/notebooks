@@ -72,7 +72,39 @@ Quais foram os autores em que a pesquisa se baseou?
 6. Conclusão
 Com base nos resultados obtidos, que conclusões ou reflexões podem ser feitas?
 
+--------------------
 
+* **28/08**
+
+	**Metodologia da pesquisa**
+
+	**Quanto à natureza**
+→ Básica
+→ Aplicada
+
+	**Quanto à abordagem**
+→ Qualitativa
+→ Quantitativa
+→ Quali-quanti
+
+	**Quanto aos objetivos**
+→ Exploratória
+→ Descritiva
+→ Explicativa
+
+	**Quanto aos procedimentos**
+→ Experimental
+→ Bibliográfica
+→ Documental
+→ De campo
+→ Ex-post-facto
+→ Survey/censo
+→ De levantamento
+→ Estado da arte
+→ De caso
+→ Participante
+→ Pesquisa-ação
+→ Etnográfica
 
 
 
